@@ -1,0 +1,38 @@
+#big{
+    position: relative;
+    right: 10%;
+    bottom: 228px;
+    width: 600px;
+    height: 600px;
+}
+.small{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+#skills{
+    display: inline-block;
+}
+#master{
+    position: relative;
+    bottom: 850px;
+    left: 130px;
+}
+#sub{
+    position: relative;
+    bottom: 1120px;
+    left: 400px;
+}
+/* CSS */
+h1 {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    
+}
+ #anime{
+    position: relative;
+    left: 80%;
+    bottom: 400px;;
+ }
